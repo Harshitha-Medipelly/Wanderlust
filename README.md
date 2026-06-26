@@ -2,6 +2,8 @@
 
 This guide will walk you through the installation process for the Wanderlust web project. Follow the steps below to set up the project locally on your machine.
 
+Project Link: https://project-wanderlust-psi.vercel.app/listings/67825bee48c9ed484a602a04
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed on your system:
